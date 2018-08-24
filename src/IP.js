@@ -1,0 +1,1 @@
+ export const configIP='http://172.20.10.11:7888'
